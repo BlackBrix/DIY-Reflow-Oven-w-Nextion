@@ -1,6 +1,13 @@
 # DIY Reflow Oven
 
-[![null](<pics/reflow_1.png>)](<pics/reflow_1.png>)[![null](<pics/reflow_2.jpg>)](<pics/reflow_1.png>)[![null](<pics/reflow_3.jpg>)](<pics/reflow_1.png>)[![null](<pics/reflow_4.jpg>)](<pics/reflow_1.png>)[![null](<pics/reflow_5.jpg>)](<pics/reflow_1.png>)[![null](<pics/reflow_6.png>)](<pics/reflow_1.png>)
+<p>
+<a href="pics/reflow_1.png"><img src="pics/reflow_1.png" width="320px"></a>
+<a href="pics/reflow_1.png"><img src="pics/reflow_2.jpg" width="320px"></a>
+<a href="pics/reflow_1.png"><img src="pics/reflow_3.jpg" width="320px"></a>
+<a href="pics/reflow_1.png"><img src="pics/reflow_4.jpg" width="320px"></a>
+<a href="pics/reflow_1.png"><img src="pics/reflow_5.jpg" width="320px"></a>
+<a href="pics/reflow_1.png"><img src="pics/reflow_6.png" width="320px"></a>
+</p>
 
 <div class="about about-full"> About: I am a 22 years old student from Germany who love to make things. Later I want to become an Electrical Engineer :-) https://www.instagram.com/vulcaman/ <span class="author-link"><a class="more-link" rel="author" href="/member/Vulcaman/">More About Vulcaman »</a></span></div>
 
