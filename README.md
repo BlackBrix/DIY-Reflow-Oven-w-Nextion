@@ -30,7 +30,9 @@ https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/
 
 ## Step 2: Remove All the Electronics From the Oven
 
-[![null](<pics/Step2_1.jpg>)](<pics/Step2_1.jpg>)
+<p>
+<a href="https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/pics/Step2_1.jpg"><img src="pics/Step2_1.jpg" width="320px"></a>
+</p>
 
 <div class="step-body"><p>At first you will need to remove everything of the old electronics from the oven. Take care about the sharp edges from the sheet metal!</p><p><a href="https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/pics/Step2_2.webp"><img src="pics/Step2_2.webp" width="320px"></a><a href="https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/pics/Step2_3.webp"><img src="pics/Step2_3.webp" width="320px"></a></p></div>
 
@@ -38,7 +40,12 @@ https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/
 
 ## Step 3: Attach the Main Switch and the Nextion Display to the Frontpanel
 
-[![null](<pics/Step3_1.jpg>)](<pics/Step3_1.jpg>)[![null](<pics/Step3_2.jpg>)](<pics/Step3_2.jpg>)[![null](<pics/Step3_3.jpg>)](<pics/Step3_3.jpg>)[![null](<pics/Step3_4.jpg>)](<pics/Step3_4.jpg>)
+<p>
+<a href="https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/pics/Step3_1.jpg"><img src="pics/Step3_1.jpg" width="320px"></a>
+<a href="https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/pics/Step3_2.jpg"><img src="pics/Step3_2.jpg" width="320px"></a>
+<a href="https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/pics/Step3_3.jpg"><img src="pics/Step3_3.jpg" width="320px"></a>
+<a href="https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/pics/Step3_4.jpg"><img src="pics/Step3_4.jpg" width="320px"></a>
+</p>
 
 <div class="step-body"><p>I wanted a clean look of the reflow oven. No cables, no sharp edges, a oven which can be used as a tool.</p><p>So I have milled a front panel out of aluminum dibond, where I have placed the nextion display and a power switch</p></div>
 
@@ -46,7 +53,10 @@ https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/
 
 ## Step 4: Build the Electronics
 
-[![null](<pics/Step4_1.png>)](<pics/Step4_1.png>)
+
+<p>
+<a href="https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/pics/Step4_1.png"><img src="pics/Step4_1.png" width="320px"></a>
+</p>
 
 <div class="step-body"><p>The electronics of the reflow oven is really simple. It is just a STM32 Bluepill board, with a MAX6675 thermocouple module, a Nextion 3.5" display and a solid state relay. You will find the schematic above. The level shifter in front of the nextion display is required, beacuse the STM32 works with 3.3V and the Nextion with 5V. I have mounted the electronics on a 3mm Aluminum sheet. </p><p><a href="https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/pics/Step4_2.webp"><img src="pics/Step4_2.webp" width="320px"></a><a href="https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/pics/Step4_3.webp"><img src="pics/Step4_3.webp" width="320px"></a></p></div>
 
@@ -54,7 +64,11 @@ https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/
 
 ## Step 5: Attach the Display to the Case
 
-[![null](<pics/Step5_1.jpg>)](<pics/Step5_1.jpg>)[![null](<pics/Step5_2.jpg>)](<pics/Step5_2.jpg>)
+
+<p>
+<a href="https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/pics/Step5_1.jpg"><img src="pics/Step5_1.jpg" width="320px"></a>
+<a href="https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/pics/Step5_2.jpg"><img src="pics/Step5_2.jpg" width="320px"></a>
+</p>
 
 <div class="step-body"><p>Now it's time to put the electronics back to the oven. Try to wire everything as nice as possible. However take a lot of care, because you will work with Main Voltage (230 V) which can potentially kill you!!!</p></div>
 
@@ -62,7 +76,12 @@ https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/
 
 ## Step 6: Isolate It
 
-[![null](<pics/Step6_1.jpg>)](<pics/Step6_1.jpg>)[![null](<pics/Step6_2.jpg>)](<pics/Step6_2.jpg>)[![null](<pics/Step6_3.jpg>)](<pics/Step6_3.jpg>)
+
+<p>
+<a href="https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/pics/Step6_1.jpg"><img src="pics/Step6_1.jpg" width="320px"></a>
+<a href="https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/pics/Step6_2.jpg"><img src="pics/Step6_2.jpg" width="320px"></a>
+<a href="https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/pics/Step6_3.jpg"><img src="pics/Step6_3.jpg" width="320px"></a>
+</p>
 
 <div class="step-body"><p>For a better heat management, I have put some Rock Wool between the heating chamber and the outside of the oven. This way I could achieve that the oven only gets hand-warm on the outside of the oven.</p></div>
 
@@ -70,13 +89,20 @@ https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/
 
 ## Step 7: ​Put the Original Enclosure Back on the Oven
 
-[![null](<pics/Step7_1.jpg>)](<pics/Step7_1.jpg>)[![null](<pics/Step7_2.jpg>)](<pics/Step7_2.jpg>)[![null](<pics/Step7_3.jpg>)](<pics/Step7_3.jpg>)
+
+<p>
+<a href="https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/pics/Step7_1.jpg"><img src="pics/Step7_1.jpg" width="320px"></a>
+<a href="https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/pics/Step7_2.jpg"><img src="pics/Step7_2.jpg" width="320px"></a>
+<a href="https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/pics/Step7_3.jpg"><img src="pics/Step7_3.jpg" width="320px"></a>
+</p>
 
 ---
 
 ## Step 8: Programm the Nextion Display
 
-[![null](<pics/Step8_1.jpg>)](<pics/Step8_1.jpg>)
+<p>
+<a href="https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/pics/Step8_1.jpg"><img src="pics/Step8_1.jpg" width="320px"></a>
+</p>
 
 <div class="step-body"><p>For the User Interface, I have designed my own GUI in the Nextion Editor. The GUI consist of four pages, which are shown below:</p><p>The first Page shows all the necessary Information which are important for the Reflow Soldering</p><p><a href="https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/pics/Step8_2.webp"><img src="pics/Step8_2.webp" width="320px"></a></p><p> If you press on the Settings Button, you will be forwarded to the Parameters Page. There you can define all the Settings for the Profile</p><p><a href="https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/pics/Step8_3.webp"><img src="pics/Step8_3.webp" width="320px"></a></p><p>If you press on Advanced, you will be forwarded to the Advanced Settings, where you can adjust the PID-Parameters for the Heater</p><p><a href="https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/pics/Step8_4.webp"><img src="pics/Step8_4.webp" width="320px"></a></p><p>The Last Page is the KeyPad. The KeyPad will be opened when you press on the red Button of the Parameters</p><p><a href="https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/pics/Step8_5.webp"><img src="pics/Step8_5.webp" width="320px"></a></p><p>For a better explenation of the GUI, please watch the Youtube Video from the Beginning</p><p>##########################################################################</p><p><u><strong>Flash the Nextion Display<br></strong></u></p><p>To Flash the Nextion Display, you have to download the <a href="https://nextion.tech/nextion-editor/" rel="nofollow noopener">Nextion Editor</a>.</p><p>Then you just open the .HMI File and upload it to the Display </p></div>
 
@@ -86,7 +112,9 @@ https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/
 
 ## Step 9: Programm the STM32 + Source Code
 
-[![null](<pics/Step9_1.png>)](<pics/Step9_1.png>)
+<p>
+<a href="https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/pics/Step9_1.png"><img src="pics/Step9_1.png" width="320px"></a>
+</p>
 
 <div class="step-body"><p>For this Project, I have used a STM32F103C8T6 Microcontroller, which I have programmed with CUBEMX and STM32CubeIDE. The STM32 will handle the complete control of the Oven. However there are some important things you should know.</p><p><br><u>The GPIO Pin for the Relay<br></u></p><p>To adjust the Output Power of the Heater I have used a Solid State Relay. While working with SSR Relays, you should know that they are often build with Triacs as switching Unit. This means that the SSR can only switch off when the Current is zero. The Heater is Controlled by 230 V 50 Hz Main Voltage so I have to switch way slower than 50 Hz for an better power control. So have set the PWM Frequecy on Pin PA9 to 1 Hz. That way, I could simply adjust the power by the dutycycle on Pin PA9.<u><br></u></p><p><u>The PID Controller<br></u></p><p>For the PID-Controller I have used the PID Implementation from the ARM CMSIS Package. You can find the documentation <a href="https://www.keil.com/pack/doc/CMSIS/DSP/html/group__PID.html" rel="nofollow noopener">here<br></a></p><p><u>Write of the parameters to the Flash Memory<br></u></p><p>To store the parameters permanently to the STM32, the parameters will be automatically stored to the Flash Memory of the STM32. Here I have used the Flash library from <a href="https://www.youtube.com/watch?v=BKgh896Bj8Q" rel="nofollow noopener">Controllers Tech<br></a></p><p>##############################################################</p><p><u><strong>Flash the STM32<br></strong></u></p><p>Because it much more complicated to set up the STM32CUBEIde and include all the libraries compared to the Arduino IDE, I have precompiled the C-Code as a .bin file. So all you have to do is to flash the .bin file with the <a href="https://www.st.com/en/development-tools/stsw-link004.html" rel="nofollow noopener">ST-Link-Utility</a> to the STM32. For flashing the STM32 you will need a ST-Link Programmer</p><p>You can download all the Source Files below:</p><p>Or download them from <a href="https://drive.google.com/drive/folders/1B09TK_5CR2aG5pWbvl-CoUNYtiuce62N?usp=sharing" rel="nofollow noopener">Google Drive</a></p><p><br><a href="https://www.keil.com/pack/doc/CMSIS/DSP/html/group__PID.html" rel="nofollow noopener"></a></p><p><u><br></u></p></div>
 
@@ -96,7 +124,13 @@ https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/
 
 ## Step 10: Pictures From Soldering
 
-[![null](<pics/Step10_1.jpg>)](<pics/Step10_1.jpg>)[![null](<pics/Step10_2.jpg>)](<pics/Step10_2.jpg>)[![null](<pics/Step10_3.jpg>)](<pics/Step10_3.jpg>)[![null](<pics/Step10_4.jpg>)](<pics/Step10_4.jpg>)[![null](<pics/Step10_5.jpg>)](<pics/Step10_5.jpg>)
+<p>
+<a href="https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/pics/Step10_1.jpg"><img src="pics/Step10_1.jpg" width="320px"></a>
+<a href="https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/pics/Step10_2.jpg"><img src="pics/Step10_2.jpg" width="320px"></a>
+<a href="https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/pics/Step10_3.jpg"><img src="pics/Step10_3.jpg" width="320px"></a>
+<a href="https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/pics/Step10_4.jpg"><img src="pics/Step10_4.jpg" width="320px"></a>
+<a href="https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/pics/Step10_5.jpg"><img src="pics/Step10_5.jpg" width="320px"></a>
+</p>
 
 <div class="step-body"><p>Here you will see some results from soldering. As you can see the soldering is quite nice :-)</p><p>I have used Sn63Pb37 Solder Paste for this PCB. In the future I will update this step with some more PCBs which I have soldered. Also take a look at my <a href="https://www.instagram.com/vulcaman/" rel="nofollow noopener">Instagram</a> for more pictures.</p><p><u><strong>### If you have any questions, feel free to contact me ###<br></strong></u></p></div>
 
