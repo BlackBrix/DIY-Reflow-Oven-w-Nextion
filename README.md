@@ -155,3 +155,6 @@ HMI-File: https://github.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/raw/main/Nextio
 
 <div class="step-body"><p>Here you will see some results from soldering. As you can see the soldering is quite nice :-)</p><p>I have used Sn63Pb37 Solder Paste for this PCB. In the future I will update this step with some more PCBs which I have soldered. Also take a look at my <a href="https://www.instagram.com/vulcaman/" rel="nofollow noopener">Instagram</a> for more pictures.</p><p><u><strong>### If you have any questions, feel free to contact me ###<br></strong></u></p></div>
 
+'Vulcaman' https://www.instructables.com/member/Vulcaman/  
+www.vulcaman.de  
+https://www.instagram.com/vulcaman/  
