@@ -33,7 +33,9 @@ provided as 'open source' under the creative commons license:
 
 <p></p>
 
-<p>If you like my Instructable, please vote for me in the <a href="https://www.instructables.com/contest/automation2021/">Automation Contest</a></p><p>Visit my <a href="https://www.instagram.com/vulcaman/" rel="nofollow noopener">Instagram</a></p><p>Visit my <a href="https://www.vulcaman.de/" rel="nofollow noopener">Website<br></a></p><p><strong><u>UPDATE:<br></u></strong></p><p><strong>[27.03.2021] Fixed Integral Wind-Up in PID Controller, Actual Temp will draw longer now<br></strong></p><p><strong>--&gt; Updated STM32 Source Files</strong><br><a href="https://www.vulcaman.de/" rel="nofollow noopener"></a></p></div>
+<p>If you like my Instructable, please vote for me in the <a href="https://www.instructables.com/contest/automation2021/">Automation Contest</a></p><p>Visit my <a href="https://www.instagram.com/vulcaman/" rel="nofollow noopener">Instagram</a></p><p>Visit my <a href="https://www.vulcaman.de/" rel="nofollow noopener">Website<br></a></p>
+
+<p><strong><u>UPDATE:<br></u></strong></p><p><strong>[27.03.2021] (V1.1) Fixed Integral Wind-Up in PID Controller, Actual Temp will draw longer now<br></strong></p><p><strong>--&gt; Updated STM32 Source Files</strong><br><a href="https://www.vulcaman.de/" rel="nofollow noopener"></a></p></div>
 
 ---
 
