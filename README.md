@@ -1,10 +1,3 @@
-https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/
-
-
-
-
-
-
 # DIY Reflow Oven
 
 <p>
