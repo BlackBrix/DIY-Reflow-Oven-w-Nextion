@@ -5,7 +5,8 @@ created by 'Vulcaman' https://www.instructables.com/member/Vulcaman/
 www.vulcaman.de  
 https://www.instagram.com/vulcaman/  
   
-provided unter the creative commons license: 'Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)'  
+provided as 'open source' under the creative commons license:  
+'Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)'  
 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="pics/by-nc-sa_small.png"></a>
   
 
@@ -22,7 +23,7 @@ provided unter the creative commons license: 'Attribution-NonCommercial-ShareAli
 <a href="https://raw.githubusercontent.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/main/pics/reflow_6.png"><img src="pics/reflow_6.png" width="320px"></a>
 </p>
 
-<div class="about about-full"> About: I am a 22 years old student from Germany who love to make things. Later I want to become an Electrical Engineer :-) https://www.instagram.com/vulcaman/ <span class="author-link"><a class="more-link" rel="author" href="/member/Vulcaman/">More About Vulcaman »</a></span></div>
+----
 
 <div class="step-body"><p>In this Instructable I want to show you how you can build your own SMD Reflow Oven for under 60€.</p><p>For a few month now, I decided to getting deeper in electronics und PCB-Design. However many SMD components you can buy are so tiny that they are really hard to solder. In the Industry, the standart is an Oven with a predefined Temperature Curve, a so called Reflow-Oven. However a Industrial grade Reflow Oven is really Expensive, so I have searched the Web and I saw a lot of People converting an old Pizza-Oven to a Reflow-Oven. Sadly I couldn't find one which will look that professional I would like. So I started to build my own reflow oven and decided to make it Open Source :-)</p><p>The reflow oven has the followings features:</p><ul><li>1200 W of Power </li><li>Touch Screen </li><li>Modern GUI with Temperature Curve, Keypad and Parameters </li><li>Permanent storage of the settings (Stored in Flash) </li><li>STM32 Microcontroller (Blue Pill) </li><li>PID Temperature Controller </li><li>Overall Cost +-60€</li></ul><p><u><strong>Videos of the Reflow Oven<br></strong></u></p><iframe allowfullscreen="" src="https://www.youtube.com/embed/BAKA0E_wQRk" width="560" height="315" frameborder="0"></iframe><p></p><iframe allowfullscreen="" src="https://www.youtube.com/embed/CvY7zXQO4RU" width="560" height="315" frameborder="0"></iframe><p></p><p>If you like my Instructable, please vote for me in the <a href="https://www.instructables.com/contest/automation2021/">Automation Contest</a></p><p>Visit my <a href="https://www.instagram.com/vulcaman/" rel="nofollow noopener">Instagram</a></p><p>Visit my <a href="https://www.vulcaman.de/" rel="nofollow noopener">Website<br></a></p><p><strong><u>UPDATE:<br></u></strong></p><p><strong>[27.03.2021] Fixed Integral Wind-Up in PID Controller, Actual Temp will draw longer now<br></strong></p><p><strong>--&gt; Updated STM32 Source Files</strong><br><a href="https://www.vulcaman.de/" rel="nofollow noopener"></a></p></div>
 
