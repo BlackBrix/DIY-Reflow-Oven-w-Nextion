@@ -1,3 +1,16 @@
+this project was 'forked' / copied from here:  
+https://www.instructables.com/DIY-REFLOW-OVEN/  
+  
+created by 'Vulcaman' https://www.instructables.com/member/Vulcaman/  
+www.vulcaman.de  
+https://www.instagram.com/vulcaman/  
+  
+provided unter the creative commons license: 'Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)'  
+<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="pics/by-nc-sa_small.png"></a>
+  
+
+----
+
 # DIY Reflow Oven
 
 <p>
