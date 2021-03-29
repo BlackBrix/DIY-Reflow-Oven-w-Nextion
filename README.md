@@ -9,6 +9,7 @@ provided as 'open source' under the creative commons license:
 'Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)'  
 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="pics/by-nc-sa_small.png"></a>
   
+Original test follows:
 
 ----
 
@@ -158,3 +159,7 @@ HMI-File: https://github.com/BlackBrix/DIY-Reflow-Oven-w-Nextion/raw/main/Nextio
 'Vulcaman' https://www.instructables.com/member/Vulcaman/  
 www.vulcaman.de  
 https://www.instagram.com/vulcaman/  
+
+----
+
+End of original text
