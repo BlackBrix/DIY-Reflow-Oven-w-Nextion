@@ -3,7 +3,7 @@ https://www.instructables.com/DIY-REFLOW-OVEN/
   
 created by 'Vulcaman' (© Christian Rostek)  
 https://www.instructables.com/member/Vulcaman/  
-www.vulcaman.de (including a shop)   
+www.vulcaman.de (including onlone shop)   
 https://www.instagram.com/vulcaman/  
   
 provided as 'open source' under the creative commons license:  
