@@ -1,7 +1,8 @@
 this project was 'forked' / copied from here:  
 https://www.instructables.com/DIY-REFLOW-OVEN/  
   
-created by 'Vulcaman' https://www.instructables.com/member/Vulcaman/  
+created by 'Vulcaman' (Christian Rostek)  
+https://www.instructables.com/member/Vulcaman/  
 www.vulcaman.de  
 https://www.instagram.com/vulcaman/  
   
