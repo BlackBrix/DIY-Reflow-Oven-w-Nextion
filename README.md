@@ -3,7 +3,7 @@ https://www.instructables.com/DIY-REFLOW-OVEN/
   
 created by 'Vulcaman' (© Christian Rostek)  
 https://www.instructables.com/member/Vulcaman/  
-www.vulcaman.de (including onlone shop)   
+www.vulcaman.de (including online shop)   
 https://www.instagram.com/vulcaman/  
   
 find more about Nextion intelligent HMI displays: https://nextion.tech  
