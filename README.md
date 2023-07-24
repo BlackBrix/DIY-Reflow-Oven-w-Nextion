@@ -34,8 +34,8 @@ Original text as follows:
 <div class="step-body"><p>In this Instructable I want to show you how you can build your own SMD Reflow Oven for under 60€.</p><p>For a few month now, I decided to getting deeper in electronics und PCB-Design. However many SMD components you can buy are so tiny that they are really hard to solder. In the Industry, the standart is an Oven with a predefined Temperature Curve, a so called Reflow-Oven. However a Industrial grade Reflow Oven is really Expensive, so I have searched the Web and I saw a lot of People converting an old Pizza-Oven to a Reflow-Oven. Sadly I couldn't find one which will look that professional I would like. So I started to build my own reflow oven and decided to make it Open Source :-)</p><p>The reflow oven has the followings features:</p><ul><li>1200 W of Power </li><li>Touch Screen </li><li>Modern GUI with Temperature Curve, Keypad and Parameters </li><li>Permanent storage of the settings (Stored in Flash) </li><li>STM32 Microcontroller (Blue Pill) </li><li>PID Temperature Controller </li><li>Overall Cost +-60€</li></ul>
 
 <p><u><strong>Videos of the Reflow Oven<br></strong></u></p>
-<ul><li>https://www.youtube.com/embed/BAKA0E_wQRk</li>
-<li>https://www.youtube.com/embed/CvY7zXQO4RU</li></ul>
+<ul><li>https://youtu.be/BAKA0E_wQRk</li>
+<li>https://youtu.be/CvY7zXQO4RU</li></ul>
 
 <p></p>
 
