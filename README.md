@@ -7,6 +7,8 @@ www.vulcaman.de (including online shop)
 https://www.instagram.com/vulcaman/  
   
 find more about Nextion intelligent HMI displays: https://nextion.tech  
+
+see as well this forked project: -> https://github.com/polihedron/DIY-Reflow-Oven  
   
 provided as 'open source' under the creative commons license:  
 'Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)'  
